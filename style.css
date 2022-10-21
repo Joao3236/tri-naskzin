@@ -1,0 +1,15 @@
+h1{
+    color: rgb(5, 5, 5);
+}
+
+body{
+
+background:linear-gradient(blueviolet,white) ;
+}
+
+.stro{
+
+width: 50%;
+border: solid 10px black;
+margin-left: 25%;
+}
