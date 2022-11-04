@@ -1,0 +1,26 @@
+h1{
+    color: rgb(5, 5, 5);
+}
+
+body{
+
+background:linear-gradient(blueviolet,white) ;
+}
+
+.stro{
+
+width: 50%;
+border: solid 10px black;
+margin-left: 25%;
+}
+
+nav{
+font-size: 45px;
+
+}
+
+nav li{
+
+display: inline;
+margin: 0 0 0 8%;
+}
